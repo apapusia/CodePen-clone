@@ -1,0 +1,49 @@
+/* Search & right buttons */
+.buttons-wrapper button{
+    padding: 16px 25px;
+    background: #343436;
+    font-size: 1.2em;
+    font-weight: 600;
+    text-align: center;
+    color: white;
+    border: 3px solid transparent;
+    border-radius: 5px;
+}
+
+.create-button i{
+    color: #47cf73;
+}
+
+/* Call to action buttons */
+
+.content-buttons{
+    margin-top: 2rem;
+}
+
+.content-buttons button{
+    padding: 16px 25px;
+    font-size: 1.6rem;
+    font-weight:600;
+    text-align: center;
+    border: 3px solid transparent;
+    border-radius: 5px;
+}
+.content-buttons button{
+    padding: 16px 25px;
+    font-size: 1.6rem;
+    font-weight:600;
+    text-align: center;
+    border: 3px solid transparent;
+    border-radius: 5px;
+}
+.content-buttons> .sign-free{
+    background-color: #47cf73;
+    color: black;
+    margin: 0 10px 0 0;
+}
+
+.content-buttons> .learn-more{
+    background-color:black;
+    color: white;
+    margin: 0 10px 0 0;
+}

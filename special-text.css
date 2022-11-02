@@ -1,0 +1,11 @@
+.image-text> .blueText{
+    color: #76daff;
+}
+
+.footer-cell> .boldText{
+    /* The proper font family (Telefon) is not avalible for free */
+    font-family:'Franklin Gothic Medium' sans-serif;
+    font-size: 1.5rem;
+    font-weight: 900;
+    text-transform: uppercase;
+}
